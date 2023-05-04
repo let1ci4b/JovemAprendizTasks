@@ -41,3 +41,4 @@
 - **git pull origin {nome branch} ->** incorpora as alterações de um repositório remoto no branch atual
 - **git push {nome do repositório remoto} {nome da branch local} ->** transfere commits através de um repositório local para um repositório remoto
 
+Para mais informações consulte [aqui](https://comandosgit.github.io/)
