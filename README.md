@@ -19,3 +19,20 @@ Utilizando o gitbash
 7) Comando 'git commit -m "Versão atual do projeto";
 8) Comando 'git push --set-upstream origin main'
 -------------------------------------
+git config --global user.{name || email} {informação} -> define nome de usuário ou endereço de e-mail
+git help {comando} -> pedir ajuda com comandos git
+git clone {url} -> clona um repositório
+git add {arquivo} -> monitora um novo arquivo (agora o arquivo faz parte do commit)
+git status {arquivo} -> vê se o arquivo está sendo monitorado (se está no commit)
+git commit -m {"mensagem} -> usado depois do git add | armazena o conteúdo do índice de um commit
+git reset --hard HEAD~1 -> retorna ao último commit
+git reset --soft HEAD~1 -> retorna ao último commit, mas mantém os arquivos no Stage
+git rm -f {arquivo} -> remove um arquivo do Git
+git mv {arquivo origem} {arquivo destino} -> renomeia um arquivo
+git branch {nome} -> cria um novo branch
+git checkout {nome branch} -> muda para um branch existente
+git checkout -b {nome branch} -> cria um novo branch e já muda para ele
+git log -> histórico de commits
+git fech origin -> pega dados de projetos remotos
+git pull origin {nome branch} -> incorpora as alterações de um repositório remoto no branch atual
+git push {nome do repositório remoto} {nome da branch local} -> transfere commits através de um repositório local para um repositório remoto
