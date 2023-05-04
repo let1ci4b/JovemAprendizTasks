@@ -1,6 +1,11 @@
+# 📲 Squad Apps
+### Autora: Letícia Beatriz Souza
+Repositório criado com o intuito de armazenar as atividades desenvolvidas durante o prática do programa Jovem Aprendiz de Programação Back-End na equipe Squad Apps.
+#
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
-# Utilizando o gitbash
+## Utilizando o GitBash
 
 ### 🤔 Clonando Repositório:
 ```
@@ -41,4 +46,4 @@
 - **git pull origin {nome branch} ->** incorpora as alterações de um repositório remoto no branch atual
 - **git push {nome do repositório remoto} {nome da branch local} ->** transfere commits através de um repositório local para um repositório remoto
 
-Para mais informações consulte [aqui](https://comandosgit.github.io/)
+-> Para mais informações sobre os comandos Git consulte [aqui](https://comandosgit.github.io/).
