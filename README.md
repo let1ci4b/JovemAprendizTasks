@@ -9,7 +9,7 @@
 3- utilizar comando 'git clone endereço https copiado do seu repositório.git';
 ```
 
-### 😎 Commit e Push:
+### 😮 Commit e Push:
 ```
 1- Entrar na pasta clonada através do git bash;
 2- Configurar seu nome de usuário através do comando 'git config --global user.name "seu nome de usuário aqui" (o nome que aparece na página do github, nessa etapa o git pode pedir para você autorizar na página, utilizando a sua senha de acesso);
@@ -21,7 +21,7 @@
 8- Comando 'git push --set-upstream origin main'
 ```
 
-### 😮 Outros comandos:
+### 😎 Outros comandos:
 
 - **git config --global user.{name || email} {informação} ->** define nome de usuário ou endereço de e-mail
 - **git help {comando} ->** pedir ajuda com comandos git
