@@ -45,3 +45,7 @@ Repositório criado com o intuito de armazenar as atividades desenvolvidas duran
 - **git push {nome do repositório remoto} {nome da branch local} ->** transfere commits através de um repositório local para um repositório remoto
 
 -> Para mais informações sobre os comandos Git consulte [aqui](https://comandosgit.github.io/).
+
+#
+<h1> <img src="https://skills.thijs.gg/icons?i=kotlin&theme=dark" width="30" height="30"/> Kotlin - Anotações</h1>
+
