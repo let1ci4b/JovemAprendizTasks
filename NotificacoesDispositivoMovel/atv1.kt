@@ -1,3 +1,5 @@
+// Descrição: Programa que mostra a mensagem de resumo com base no número de notificações recebidas.
+
 fun main() {
     val morningNotification = 51
     val eveningNotification = 135
