@@ -47,5 +47,7 @@ Repositório criado com o intuito de armazenar as atividades desenvolvidas duran
 -> Para mais informações sobre os comandos Git consulte [aqui](https://comandosgit.github.io/).
 
 #
-<h1> <img src="https://skills.thijs.gg/icons?i=kotlin&theme=dark" width="30" height="30"/> Kotlin - Anotações</h1>
+<h1> <img src="https://skills.thijs.gg/icons?i=kotlin&theme=dark" width="30" height="30"/> Kotlin</h1>
+[Notificações no dispositivo móvel](NotificacoesDispositivoMovel/atv1.kt)
+[Notificações no dispositivo móvel](PrecoIngressoCinema/atv2.kt)
 
