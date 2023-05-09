@@ -1,3 +1,5 @@
+// Descrição: Programa que calcula o preço do ingresso de cinema de cada cliente com base na sua idade.
+
 fun main() {
     val child = 5
     val adult = 28
