@@ -11,12 +11,11 @@ fun main() {
     println("Today, the movie ticket price for a person aged $adult is \$${ticketPrice(adult, isMonday)}.")
     println("The movie ticket price for a person aged $senior is \$${ticketPrice(senior, isMonday)}.")
 }
-
 fun ticketPrice(age: Int, isMonday: Boolean): Int {
-    var price = 
-    if(age <= 12) 15;
-    else if(age in 13..60) if(isMonday == true) 25 else 30;
-    else if(age in 60..100) 20;
-    else -1;
-    return price;
+    return when (age) {
+        in 0..12 -> 15
+        in 13..60 -> if(isMonday) 25 else 30
+        in 60..100 -> 20
+        else -> -1
+	}
 }
