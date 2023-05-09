@@ -49,6 +49,61 @@ Repositório criado com o intuito de armazenar as atividades desenvolvidas duran
 #
 <h1> <img src="https://skills.thijs.gg/icons?i=kotlin&theme=dark" width="30" height="30"/> Kotlin</h1>
 
+**Inicializar variável ->** 
+``` val nome: String = "Zé" / var idade: Int = 30  ```
+
+**Inicializar variável que aceita null ->** 
+``` val person: Person? = null ```
+
+**Inicializar ArrayList ->**
+``` val linguagens = arrayListOf<String>("Java", "Kotlin") ```
+
+**Expressão when ->** 
+```
+  when (x) {
+    1 -> print("x == 1")
+    2 -> print("x == 2")
+    else -> {
+        print("x is neither 1 nor 2")
+    }
+}
+```
+**Expressão if-else ->**
+``` val maxOrLimit = if (maxLimit > a) maxLimit else if (a > b) a else b ```
+``` 
+val max = if (a > b) {
+    print("Choose a")
+    a
+} else {
+    print("Choose b")
+    b
+}
+``` 
+**Expressão for ->** 
+```
+for (i in 1..3) {
+    println(i)
+}
+for (i in 6 downTo 0 step 2) {
+    println(i)
+}
+```
+**Expressões while e do-while ->**
+```
+while (x > 0) {
+    x--
+}
+
+do {
+    val y = retrieveData()
+} while (y != null)
+```
+-> Para mais informações sobre Kotlin consulte [aqui](https://kotlinlang.org/docs/home.html).
+
+#
+
+**Atividades:**
+
 [Notificações no dispositivo móvel](NotificacoesDispositivoMovel/atv1.kt)
 
 [Preço do ingresso do cinema](PrecoIngressoCinema/atv2.kt)
