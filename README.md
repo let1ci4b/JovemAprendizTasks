@@ -114,5 +114,7 @@ do {
 
 [Perfil da internet](PerfilInternet/atv5.kt)
 
+[Perfil da internet - List](PerfilInternet/atv7.kt)
+
 [Leilão especial](LeilaoEspecial/atv6.kt)
 
