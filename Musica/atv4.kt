@@ -6,9 +6,12 @@ fun main(){
     println(musica.printFama())
 }
 
-class Musica
-(val titulo: String, val artista: String, val anolancamento: Int, val contReproducao: Int)
-{   
+class Musica(
+    val titulo: String, 
+    val artista: String, 
+    val anolancamento: Int, 
+    val contReproducao: Int
+){   
      fun printMusic() : String {
          return("$titulo, de $artista, lançado em $anolancamento.")
     }
