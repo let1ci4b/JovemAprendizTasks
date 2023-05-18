@@ -118,3 +118,5 @@ do {
 
 [Leilão especial](LeilaoEspecial/atv6.kt)
 
+[Smartphones dobráveis](SmartphoneDobravel/atv8.kt)
+
