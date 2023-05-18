@@ -99,6 +99,9 @@ do {
 } while (y != null)
 ```
 -> Para mais informações sobre Kotlin consulte [aqui](https://kotlinlang.org/docs/home.html).
+<br>[listas](https://www.devmedia.com.br/utilizando-listas-em-kotlin/43178)
+<br>[classes](https://www.devmedia.com.br/kotlin-classes/40345)
+<br>[herança](https://www.devmedia.com.br/kotlin-heranca/40346)
 
 #
 
