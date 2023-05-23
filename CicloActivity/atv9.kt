@@ -20,7 +20,6 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         Toast.makeText(this@MainActivity, "OnCreate!", Toast.LENGTH_SHORT).show()
-        Log.i("", "OnCreate!")
     }
 
     override fun onStart() {
