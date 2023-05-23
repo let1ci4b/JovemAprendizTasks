@@ -125,5 +125,5 @@ do {
 
 [Smartphones dobráveis](SmartphoneDobravel/atv8.kt)
 
-[Ciclo activity](Android_CicloActivity/atv9.kt)
+[Ciclo activity](CicloActivity/atv9.kt)
 
