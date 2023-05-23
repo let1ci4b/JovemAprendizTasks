@@ -103,6 +103,8 @@ do {
 <br>[classes](https://www.devmedia.com.br/kotlin-classes/40345)
 <br>[herança](https://www.devmedia.com.br/kotlin-heranca/40346)
 
+-> Para informações sobre Android consulte [aqui](https://developer.android.com/guide/components/activities/activity-lifecycle?hl=pt-br#kotlin)
+
 #
 
 **Atividades:**
@@ -122,4 +124,6 @@ do {
 [Leilão especial](LeilaoEspecial/atv6.kt)
 
 [Smartphones dobráveis](SmartphoneDobravel/atv8.kt)
+
+[Ciclo activity](Android_CicloActivity/atv9.kt)
 
