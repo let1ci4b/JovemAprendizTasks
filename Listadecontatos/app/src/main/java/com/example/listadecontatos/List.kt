@@ -29,19 +29,19 @@ class List : ComponentActivity() {
 
             contato1?.let {
                 nomeContato1.text = it.name
-                telefoneContato1.text = it.phone
+                telefoneContato1.text = "("+it.phone?.substring(0,2)+")"+it.phone?.substring(2,7)+"-"+it.phone?.substring(7,11)
                 layoutContato1.visibility = View.VISIBLE
             }
 
             contato2?.let {
                 nomeContato2.text = it.name
-                telefoneContato2.text = it.phone
+                telefoneContato2.text = "("+it.phone?.substring(0,2)+")"+it.phone?.substring(2,7)+"-"+it.phone?.substring(7,11)
                 layoutContato2.visibility = View.VISIBLE
             }
 
             contato3?.let {
                 nomeContato3.text = it.name
-                telefoneContato3.text = it.phone
+                telefoneContato3.text = "("+it.phone?.substring(0,2)+")"+it.phone?.substring(2,7)+"-"+it.phone?.substring(7,11)
                 layoutContato3.visibility = View.VISIBLE
             }
 
