@@ -130,3 +130,5 @@ do {
 [App - Lista de contatos](Listadecontatos)
 
 [App - Calculadora](https://github.com/let1ci4b/Calculadora)
+
+[App - Lista de contatos com RecyclerView](https://github.com/let1ci4b/ListaContatos.git)
