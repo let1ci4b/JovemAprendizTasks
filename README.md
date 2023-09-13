@@ -1,6 +1,6 @@
 # 📲 Squad Apps
 ### Autora: Letícia Beatriz Souza
-Repositório criado com o intuito de armazenar as atividades desenvolvidas durante a prática do programa Jovem Aprendiz de Programação Back-End na equipe Squad Apps.
+Repositório criado com o intuito de armazenar as atividades desenvolvidas durante a prática do programa Jovem Aprendiz na equipe Squad Apps.
 #
 
 <h1> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/> Utilizando o GitBash </h1>
