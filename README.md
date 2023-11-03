@@ -132,3 +132,5 @@ do {
 [App - Calculadora](https://github.com/let1ci4b/Calculadora)
 
 [App - Lista de contatos com RecyclerView](https://github.com/let1ci4b/ListaContatos.git)
+
+[App - Pokedex](https://github.com/let1ci4b/Pokedex.git)
